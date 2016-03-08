@@ -19,6 +19,12 @@ Concusiones
 ______________________________
 1.- El sistema está implementado
 
+Otro commit de la rama prueba
+______________________________
+
+Este commit solo se muestra en la rama prueba,
+posteriormente lo vamos a fusionar con la rama master.
+
 Informacion de la rama prueba
 ______________________________
 
