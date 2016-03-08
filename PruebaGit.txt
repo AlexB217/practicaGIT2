@@ -14,3 +14,12 @@ ______________________________
 1.- El sistema debe der facil de usar.
 2.- El sistema debe manejar datos de manera segura.
 3.- Elsistema debe estar disponible todo el tiempo.
+
+Concusiones
+______________________________
+1.- El sistema está implementado
+
+Informacion de la rama prueba
+______________________________
+
+1.- Esta es una nueva rama del proecto

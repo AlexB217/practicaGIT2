@@ -1,0 +1,5 @@
+git init	-	Indica que versione la carpeta en la que estoy ubicado
+git status	-	muestra si se han hecho cambios en el commit
+git add -A	-	Agregar un commit
+git -m		-	git Agregar una etiqueta al commit
+git log		-	muestras los datos del commit, quien hiso el commit, con usuario y correo, hora y fecha

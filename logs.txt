@@ -1,0 +1,25 @@
+commit 10:20 a. m. 08/03/2016Author: AlexB <j.burgos217@gmail.com>
+Date:   Mon Mar 7 11:00:10 2016 -0700
+
+    Requisitos no Funcionales
+
+
+commit 4db16f9cc9e32c9e88233c844aa821eb6b986b50
+Author: AlexB <j.burgos217@gmail.com>
+Date:   Mon Mar 7 10:56:59 2016 -0700
+
+    Requisitos Funcionales
+
+
+commit 98af595868c4bfca043db188b53e7c1b4629c320
+Author: AlexB <j.burgos217@gmail.com>
+Date:   Mon Mar 7 10:54:00 2016 -0700
+
+    Titulo y descripcion del proyecto
+
+
+commit c99010df276fdb4b546373a707e4f852b70fb51f
+Author: AlexB <j.burgos217@gmail.com>
+Date:   Mon Mar 7 10:50:13 2016 -0700
+
+    Proyecto en blanco
